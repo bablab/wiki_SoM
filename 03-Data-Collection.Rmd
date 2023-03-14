@@ -1,8 +1,16 @@
 # Data Collection
 
-## Recruitment 
+## Recruitment
+
+Recruitment is completed through Prolific, Facebook & Instagram Ads, & Word of Mouth.
 
 ## Gorilla
 
+All data collection is completed in Gorilla.
+
 ## Data Storage
+
+Raw questionnaire data is stored in Gorilla and then backed-up to the BAB Lab Box.
+
+**WILL ADD MORE DETAILS**
 
