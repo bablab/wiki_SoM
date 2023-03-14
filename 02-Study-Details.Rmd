@@ -1,0 +1,19 @@
+# Study Details
+
+## Study Design 
+
+**Overview of Session**
+![<!--- SoM --->](images/SoM_overview.png)
+
+
+## Questionnaires
+
+-**NEED TO COMPLETE LIST**
+- **Demographics**
+  - BAB Lab
+- **Interoceptive Accuracy Scale (IAS)**
+  - Murphy, J., Brewer, R., Plans, D., Khalsa, S. S., Catmur, C., & Bird, G. (2020). Testing the independence of self-reported interoceptive accuracy and attention. Quarterly Journal of Experimental Psychology, 73(1), 115-133.
+- **Multidimensional Assessment of Interoceptive Awareness (MAIA-2)**
+  - Mehling WE, Acree M, Stewart A, Silas J, Jones A (2018) The Multidimensional Assessment of Interoceptive Awareness, Version 2 (MAIA-2). PLoS ONE 13(12): e0208034.
+- **Toronto Alexithymia Scale 20 (TAS-20)**
+  - Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. Journal of psychosomatic research, 38(1), 23-32.
