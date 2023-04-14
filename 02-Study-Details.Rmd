@@ -8,15 +8,50 @@
 
 ## Questionnaires
 
--**NEED TO COMPLETE LIST**
-
 - **Demographics**
   - BAB Lab
+
+- **Childbirth Experiences Questionnaire**
+  - Dencker, A., Taft, C., Bergqvist, L., Lilja, H., & Berg, M. (2010). Childbirth experience questionnaire (CEQ): development and evaluation of a multidimensional instrument.BMC pregnancy and childbirth,10, 1-8.
+
+- **Childhood Trauma Questionnaire**
+  - Bernstein, D. P., Fink, L., Handelsman, L., & Foote, J. (1998). Childhood trauma questionnaire.Assessment of family violence: A handbook for researchers and practitioners.
+
+- **Edinburgh Postnatal Depression Scale**
+  - Cox, J. L., Holden, J. M., & Sagovsky, R. (1987). Detection of postnatal depression: development of the 10-item Edinburgh Postnatal Depression Scale.The British journal of psychiatry,150(6), 782-786.
+
+- **Glasgow Sensory Questionnaire**
+  - Robertson, A. E., & Simmons, D. R. (2013). The relationship between sensory sensitivity and autistic traits in the general population.Journal of Autism and Developmental disorders,43, 775-784.
+
 - **Interoceptive Accuracy Scale (IAS)**
   - Murphy, J., Brewer, R., Plans, D., Khalsa, S. S., Catmur, C., & Bird, G. (2020). Testing the independence of self-reported interoceptive accuracy and attention. Quarterly Journal of Experimental Psychology, 73(1), 115-133.
-  
-- **Multidimensional Assessment of Interoceptive Awareness (MAIA-2)**
+
+- **Multidimensional Assessment of Interoceptive Awareness 2 (MAIA-2)**
   - Mehling WE, Acree M, Stewart A, Silas J, Jones A (2018) The Multidimensional Assessment of Interoceptive Awareness, Version 2 (MAIA-2). PLoS ONE 13(12): e0208034.
-  
-- **Toronto Alexithymia Scale 20 (TAS-20)**
+
+- **Mother to Infant Bonding Scale**
+  - Taylor, A., Atkins, R., Kumar, R., Adams, D., & Glover, V. (2005). A new Mother-to-Infant Bonding Scale: links with early maternal mood.Archives of women’s mental health,8, 45-51.
+
+- **Multidimensional Scale of Perceived Social Support (MSPSS)**
+  - Zimet, G. D., Dahlem, N. W., Zimet, S. G., Farley, G. K., Sajatovic, M., & Ramirez, L. F. (2016). Multidimensional scale of perceived social support (MSPSS).Psychological Review,12, 111-113.
+
+- **Parental Bonding Instrument**
+  - Parker, G., Tupling, H., & Brown, L. B. (1979). A parental bonding instrument.British journal of medical psychology.
+
+- **Perceived Discrimination Scale**
+  - Williams, D. R., Yu, Y., Jackson, J. S., & Anderson, N. B. (1997). Racial differences in physical and mental health: Socio-economic status, stress and discrimination.Journal of health psychology,2(3), 335-351.
+
+- **Perinatal Anxiety Screening Scale 2 (PASS2)**
+  - Somerville, S., Dedman, K., Hagan, R., Oxnam, E., Wettinger, M., Byrne, S., ... & Page, A. C. (2014). The perinatal anxiety screening scale: development and preliminary validation.Archives of women's mental health,17, 443-454.
+
+- **Premenstrual Symptoms Questionnaire (PSQ)**
+  - Takeda T, Tasaka K, Sakata M, Murata Y. Prevalence of premenstrual syndrome and premenstrual dysphoric disorder in Japanese women. Arch Women’s Mental Health. 2006;9(4):209–212. doi:10.1007/ s00737-006-0137-9
+
+- **State Trait Anxiety Inventory (STAI)**
+  - Spielberger, C. D. (1983). State-trait anxiety inventory for adults.
+
+- **Toronto Alexithymia Scale (TAS-20)**
   - Bagby, R. M., Parker, J. D., & Taylor, G. J. (1994). The twenty-item Toronto Alexithymia Scale—I. Item selection and cross-validation of the factor structure. Journal of psychosomatic research, 38(1), 23-32.
+
+- **Prenatal Attachment Inventory (PAI)**
+  - Muller, M. E., & Mercer, R. T. (1993). Development of the prenatal attachment inventory.Western journal of nursing research,15(2), 199-215.
