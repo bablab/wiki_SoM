@@ -56,5 +56,5 @@
 - **Prenatal Attachment Inventory (PAI)**
   - Muller, M. E., & Mercer, R. T. (1993). Development of the prenatal attachment inventory.Western journal of nursing research,15(2), 199-215.
   
-##Funding
+## Funding
 This research was funded by the UCLA Society of Hellman Fellows Program awarded to Dr. Callaghan.
