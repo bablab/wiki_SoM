@@ -15,7 +15,7 @@
   - Dencker, A., Taft, C., Bergqvist, L., Lilja, H., & Berg, M. (2010). Childbirth experience questionnaire (CEQ): development and evaluation of a multidimensional instrument.BMC pregnancy and childbirth,10, 1-8.
 
 - **Childhood Trauma Questionnaire**
-  - Bernstein, D. P., Fink, L., Handelsman, L., & Foote, J. (1998). Childhood trauma questionnaire.Assessment of family violence: A handbook for researchers and practitioners.
+  - Pennebaker, J. W., & Susman, J. R. (1988). Disclosure of traumas and psychosomatic processes. Social science & medicine, 26(3), 327-332.
 
 - **Edinburgh Postnatal Depression Scale**
   - Cox, J. L., Holden, J. M., & Sagovsky, R. (1987). Detection of postnatal depression: development of the 10-item Edinburgh Postnatal Depression Scale.The British journal of psychiatry,150(6), 782-786.
