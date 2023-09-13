@@ -3,7 +3,7 @@
 ## Study Design 
 
 **Overview of Session**
-![<!--- SoM --->](images/SoM_overview.png)
+![<!--- SoM --->](images/SoM_Overview_updated.png)
 
 
 ## Questionnaires
@@ -55,6 +55,9 @@
 
 - **Prenatal Attachment Inventory (PAI)**
   - Muller, M. E., & Mercer, R. T. (1993). Development of the prenatal attachment inventory.Western journal of nursing research,15(2), 199-215.
+  
+- **Chronic Pain & Oral Health**
+  - BAB Lab Created
   
 ## Funding
 This research was funded by the UCLA Society of Hellman Fellows Program awarded to Dr. Callaghan.
